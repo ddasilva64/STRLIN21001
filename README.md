@@ -1,7 +1,7 @@
 ---
 description: >-
   This document is my personal notes from the Content strategies for LinkedIn
-  Platzi course. I thank the Platzi team and especially Professor Milton Suárez
+  Platzi course. I thank the Platzi team and especially teacher Milton Suárez
   Salazar for this great course.
 ---
 
